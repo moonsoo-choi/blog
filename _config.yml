@@ -22,10 +22,10 @@ title: Viscerally ambiguous blogs of M.S. Choi
 email: choi.n.moonsoo@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Treading the water of truth and lies
-domain: moonsoo-choi.github.io
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: https://moonsoo-choi.github.io # the base hostname & protocol for your site, e.g. http://example.com
-production_url : https://moonsoo-choi.github.io/blog
+# domain: moonsoo-choi.github.io
+# baseurl: "/blog" # the subpath of your site, e.g. /blog
+# url: https://moonsoo-choi.github.io # the base hostname & protocol for your site, e.g. http://example.com
+# production_url : https://moonsoo-choi.github.io/blog
 # BASE_PATH : https://moonsoo-choi.com/blog
 # twitter_username: jekyllrb
 # github_username:  jekyll
